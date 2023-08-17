@@ -40,4 +40,4 @@ The project involves several steps, including data preprocessing, feature extrac
 
 **Project Impact:**
 
-The "SMS Spam Classification" project showcases the power of machine learning in addressing everyday challenges. By accurately identifying spam messages, the project empowers users to manage their SMS communication more effectively, saving time and ensuring a safer messaging experience. This project also serves as a valuable learning opportunity for those interested in text classification, feature engineering, model selection, and deployment using tools like scikit-learn and Streamlit.
+The "SMS Spam Classification" project showcases the power of machine learning in addressing everyday challenges. By accurately identifying spam messages, the project empowers users to manage their SMS communication more effectively, saving time and ensuring a safer messaging experience. 
