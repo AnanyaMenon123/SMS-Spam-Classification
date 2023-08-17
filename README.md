@@ -12,7 +12,7 @@ The project involves several steps, including data preprocessing, feature extrac
    Collect a dataset of SMS messages labeled as spam or ham. This dataset serves as the foundation for training and evaluating the machine learning models.
 
 2. **Data Preprocessing:**
-   Clean and preprocess the raw text data by removing unnecessary characters, converting text to lowercase, and tokenizing the text into individual words. Stopword removal and stemming may also be applied to reduce noise.
+   Clean and preprocess the raw text data by removing unnecessary characters, converting text to lowercase, and tokenizing the text into individual words. Stopword removal and stemming is also applied to reduce noise.
 
 3. **Feature Extraction:**
    Convert the preprocessed text data into numerical format that machine learning algorithms can understand. In this project, we have used techniques like Bag of Words (BoW) and TF-IDF (Term Frequency-Inverse Document Frequency) to represent text as feature vectors.
